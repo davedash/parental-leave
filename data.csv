@@ -1,3 +1,4 @@
-Company,Paternity,Maternity,Adoption,Notes,Source
-Runscope,16,16,16,,https://twitter.com/johnsheehan/status/587077431237996544
-Chef Software,12,12,12,"Fully paid also 12 weeks for taking care of sick spouse, child, parent", Chef HR Policy Docs
+Company,Paternity,Maternity,Adoption,Notes,Source,Paid/Unpaid,Policy_Creation_Date,Policy_Last_Updated,Date_Added_to_Repo
+Runscope,16,16,16,,https://twitter.com/johnsheehan/status/587077431237996544,,,,
+Chef Software,12,12,12,"Fully paid also 12 weeks for taking care of sick spouse, child, parent", Chef HR Policy Docs,,,,
+California State Disability Insurance,6,6,6,Typically paid under SDI or PFL,http://www.edd.ca.gov/pdf_pub_ctr/de8714cf.pdf,paid,2002,2013,04/11/2015
