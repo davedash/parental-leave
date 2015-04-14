@@ -1,4 +1,6 @@
-Company,Paternity,Maternity,Adoption,Notes,Source,Paid/Unpaid,Policy_Creation_Date,Policy_Last_Updated,Date_Added_to_Repo
-Runscope,16,16,16,,https://twitter.com/johnsheehan/status/587077431237996544,,,,
-Chef Software,12,12,12,"Fully paid also 12 weeks for taking care of sick spouse, child, parent", Chef HR Policy Docs,,,,
-California State Disability Insurance,6,6,6,Typically paid under SDI or PFL,http://www.edd.ca.gov/pdf_pub_ctr/de8714cf.pdf,paid,2002,2013,04/11/2015
+Company,Paternity,Maternity,Adoption,Notes,Source,Policy_Creation_Date,Policy_Last_Updated,Date_Added_to_Repo
+Runscope,16,16,16,,https://twitter.com/johnsheehan/status/587077431237996544,,,
+Chef Software,12,12,12,"Fully paid also 12 weeks for taking care of sick spouse, child, parent", Chef HR Policy Docs,,,
+AeroFS,14,14,14,"10 weeks 100% paid, 8 weeks 50% paid. 10+ weeks additional unpaid.",https://www.aerofs.com/blog/parental-leave-at-aerofs/
+FermiLab,0,0,0,,,,,
+Mozilla,2,14,2,"Numbers are for US employees. Not sure adoption number is right, but it is the 'non-child-bearing parent' number. Also PTO stops acruing during this time and it's excluded from bonus calculation.",Internal Wiki,,,
