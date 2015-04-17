@@ -1,5 +1,8 @@
-Put the time in weeks.  We'll change the format as need be.  I'm too busy
-putting my kid to sleep to do this nicely ;)
+This is a crowdsourced dataset to collect data on various parental leave policies at companies (not yet countries, states regions).
+
+If you do not want to use Github to submit a pull request, we can collect the data in [this form][1].
+
+[1]: https://docs.google.com/forms/d/1HA6RKS2DfqtYC9rwP2HjWlZ70syjSnVQ_fzTcizpkvs/viewform
 
 ## Current Format Requirements
 Column and Type:
