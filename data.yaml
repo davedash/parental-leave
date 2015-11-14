@@ -10,6 +10,76 @@
     policy_last_updated:
     date_added_to_repo:
 -
+    Company: Yelp
+    Maternity: 6
+    Paternity: 3
+    Adoption: 3
+    Source: Employee Handbook
+    Notes: Paid
+    date_added_to_repo: 4/17/2015
+-
+    Company: Vayner Media
+    Paternity: 0
+    Maternity: 12
+    Source: VaynerMedia employee
+    Notes: Because of vaynermedia's "unlimited vacation" policy, no paternity leave is allotted.  I will soon learn how much time this actually nets out to, but it has been frustrating for me to be told that there is no policy because there is no need for one.  For maternity leave, I believe 12 weeks is the upper end of the spectrum, but 8 might be more normal.
+    date_added_to_repo: 4/20/2015
+-
+    Company: Brand Networks
+    Maternity: 12
+    Paternity: 1
+    Adoption: 1
+    Source: Internal handbook
+    Notes: Adoptive leave has same discrimination as birth. Maternity leave increases up to 12 with 3 years at company.
+    date_added_to_repo: 4/22/2015
+-
+    Company: Garmin
+    Maternity: 12
+    Paternity: 0
+    Source: Matthew.schiller@garmin.com
+    Notes: Women paid 60% for 11 weeks. 0% for 1 week
+    date_added_to_repo:
+-
+    Company: Trulia
+    Maternity: 10
+    Paternity: 4
+    Adoption: 4
+    Source: Internal Wiki
+    Notes: 12 weeks for cesarian birth.  Benefits only available for all full time and part time employees who have worked for Trulia for at least 12 months and 1,250 hours prior to the start of the leave.
+    date_added_to_repo: 4/28/2015
+-
+    Company: thoughtbot
+    Maternity: 8
+    Paternity: 3
+    Adoption: 3
+    Source: internal handbook
+    Notes: All employees get 3 weeks paid and up to 6 months unpaid leave. Additionally, mothers are eligible for 5 weeks fully paid short term disability for a natural birth or 7 weeks for c-section.
+    date_added_to_repo: 6/16/2015
+-
+    Company: emfluence
+    Maternity: 6
+    Paternity: 1
+    Adoption: 6
+    Source: Employee handbook
+    Notes: Regular PTO is the only way for employees to fund the leave. However, managers have some discretion to grant additional PTO.
+    date_added_to_repo: 7/18/2015
+-
+    Company: Lockheed Martin
+    Maternity: 12
+    Paternity: 1
+    Adoption:
+    Source: Bob
+    Notes:
+    date_added_to_repo: 8/26/2015
+-
+    Company: DoorDash
+    Maternity: 12
+    Paternity: 12
+    Adoption:
+    Source: Partha Sundaram
+    Notes: 8 weeks paid, 4 weeks unpaid
+    date_added_to_repo: 11/7/2015
+-
     Company: Change.org
     Maternity: 18
     Paternity: 18
