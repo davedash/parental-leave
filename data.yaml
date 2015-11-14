@@ -1,0 +1,381 @@
+---
+-
+    Company: AeroFS
+    Maternity: 14
+    Paternity: 14
+    Adoption: 14
+    Notes: 10 weeks 100% paid, 8 weeks 50% paid. 10+ weeks additional unpaid.
+    Source: https://www.aerofs.com/blog/parental-leave-at-aerofs/
+    policy_creation_date:
+    policy_last_updated:
+    date_added_to_repo:
+-
+    Company: Change.org
+    Maternity: 18
+    Paternity: 18
+    Adoption: 18
+    Notes: 18 weeks of fully-paid parental leave to every employee who becomes a new parent — biological or not
+    Source: http://fortune.com/2014/10/20/paid-parental-leave-tech-companies/
+    policy_creation_date: 2014-10-20
+    policy_last_updated:
+    date_added_to_repo: 2015-04-23
+-
+    Company: Chef Software
+    Maternity: 12
+    Paternity: 12
+    Adoption: 12
+    Notes: Fully paid also 12 weeks for taking care of sick spouse, child, parent
+    Source:  Chef HR Policy Docs
+    policy_creation_date:
+    policy_last_updated:
+    date_added_to_repo:
+-
+    Company: Cisco
+    Maternity: 12
+    Paternity: 12 or 17
+    Adoption: 4 or 12
+    Notes: 1 week paid and 11 weeks unpaid parental leave per rolling 12 months. This includes all other FML categories too.  Birthing parent can extend to 17 weeks unpaid if there are medical issues. Adoption is 4 weeks paid but can be extended to 12 weeks unpaid for bonding.
+    Source:
+    policy_creation_date:
+    policy_last_updated:
+    date_added_to_repo:
+-
+    Company: Craigslist
+    Maternity: 12
+    Paternity: 6
+    Adoption: 6
+    Notes: Using PFL partially
+    Source: kim@disqus.com
+    policy_creation_date:
+    policy_last_updated:
+    date_added_to_repo:
+-
+    Company: Disqus
+    Maternity: 12
+    Paternity: 8
+    Adoption:
+    Notes: 12 weeks primary caregiver; 8 weeks secondary caregiver - not maternal/paternal. both leaves coordinate with FMLA, PDL, CFRA, etc
+    Source: kim@disqus.com
+    policy_creation_date:
+    policy_last_updated:
+    date_added_to_repo:
+-
+    Company: Dwolla
+    Maternity: 4
+    Paternity: 4
+    Adoption: 4
+    Notes:
+    Source: kim@disqus.com
+    policy_creation_date:
+    policy_last_updated:
+    date_added_to_repo:
+-
+    Company: Etsy
+    Maternity: 12
+    Paternity: 5
+    Adoption:
+    Notes:
+    Source: kim@disqus.com
+    policy_creation_date:
+    policy_last_updated:
+    date_added_to_repo:
+-
+    Company: Evernote
+    Maternity: 2
+    Paternity: 2
+    Adoption: 2
+    Notes:
+    Source: kim@disqus.com
+    policy_creation_date:
+    policy_last_updated:
+    date_added_to_repo:
+-
+    Company: Facebook
+    Maternity: 16
+    Paternity: 16
+    Adoption:
+    Notes: $4000 cash bonus
+    Source: kim@disqus.com
+    policy_creation_date:
+    policy_last_updated:
+    date_added_to_repo:
+-
+    Company: FermiLab
+    Maternity: 0
+    Paternity: 0
+    Adoption: 0
+    Notes:
+    Source:
+    policy_creation_date:
+    policy_last_updated:
+    date_added_to_repo:
+-
+    Company: Fog Creek
+    Maternity: 12
+    Paternity: 6
+    Adoption: 6
+    Notes: At 75% pay, expense $500 in takeout in first month
+    Source: kim@disqus.com
+    policy_creation_date:
+    policy_last_updated:
+    date_added_to_repo:
+-
+    Company: Github
+    Maternity: 16
+    Paternity: 16
+    Adoption:
+    Notes:
+    Source: kim@disqus.com
+    policy_creation_date:
+    policy_last_updated:
+    date_added_to_repo:
+-
+    Company: Google
+    Maternity: 22
+    Paternity: 7
+    Adoption: 7
+    Notes: cash bonus ($700/week for food)
+    Source: kim@disqus.com
+    policy_creation_date:
+    policy_last_updated:
+    date_added_to_repo:
+-
+    Company: Jawbone
+    Maternity: 16
+    Paternity: 8
+    Adoption: 8
+    Notes:
+    Source: kim@disqus.com
+    policy_creation_date:
+    policy_last_updated:
+    date_added_to_repo:
+-
+    Company: Klout
+    Maternity: 12
+    Paternity: 12
+    Adoption:
+    Notes:
+    Source: kim@disqus.com
+    policy_creation_date:
+    policy_last_updated:
+    date_added_to_repo:
+-
+    Company: Liftopia
+    Maternity: 8
+    Paternity: 4
+    Adoption: 4
+    Notes:
+    Source: kim@disqus.com
+    policy_creation_date:
+    policy_last_updated:
+    date_added_to_repo:
+-
+    Company: LightSail Energy
+    Maternity: 12
+    Paternity: 12
+    Adoption: 12
+    Notes: (last 6 weeks at 50%)
+    Source: kim@disqus.com
+    policy_creation_date:
+    policy_last_updated:
+    date_added_to_repo:
+-
+    Company: MongoDB
+    Maternity: 12
+    Paternity: 4
+    Adoption: 4
+    Notes:
+    Source: renee.gloger@mongodb.com
+    policy_creation_date:
+    policy_last_updated:
+    date_added_to_repo: 2015-8-21
+-
+    Company: Mozilla
+    Maternity: 2
+    Paternity: 14*
+    Adoption: 2
+    Notes: 'Numbers are for US employees. Not sure adoption number is right, but it is the ''non-child-bearing parent'' number. Also PTO stops acruing during this time and it''s excluded from bonus calculation. * The total maternity leave you can get is 15 weeks but the first week is either PTO or unpaid. After that, the next 12 weeks are considered maternity leave, followed by an additional 2 weeks of parental leave (which any new parent is eligible).'
+    Source: Internal Wiki/personal experience
+    policy_creation_date:
+    policy_last_updated:
+    date_added_to_repo:
+-
+    Company: Omaze
+    Maternity: 6
+    Paternity: 6
+    Adoption: 6
+    Notes:
+    Source: kim@disqus.com
+    policy_creation_date:
+    policy_last_updated:
+    date_added_to_repo:
+-
+    Company: One Kings Lane
+    Maternity: 12
+    Paternity: 12
+    Adoption:
+    Notes:
+    Source: kim@disqus.com
+    policy_creation_date:
+    policy_last_updated:
+    date_added_to_repo:
+-
+    Company: One Medical Group
+    Maternity: 16
+    Paternity: 6
+    Adoption: 6
+    Notes: Maternity @ 60% pay Paternity/Adoption using PFL
+    Source: kim@disqus.com
+    policy_creation_date:
+    policy_last_updated:
+    date_added_to_repo:
+-
+    Company: Optimizely
+    Maternity: 17
+    Paternity: 17
+    Adoption: 17
+    Notes:
+    Source: kim@disqus.com
+    policy_creation_date:
+    policy_last_updated:
+    date_added_to_repo:
+-
+    Company: Palantir
+    Maternity: 16
+    Paternity: 4
+    Adoption:
+    Notes:
+    Source: kim@disqus.com
+    policy_creation_date:
+    policy_last_updated:
+    date_added_to_repo:
+-
+    Company: Pinterest
+    Maternity: 16
+    Paternity: 16
+    Adoption:
+    Notes: Four months of paid parental leave, plus an additional month of part-time transition that can be taken any time over the year; 1:1 coaching sessions for reboarding, Urban Sitter one year membership, credits for Munchery and emergency/back-up care
+    Source: tracy@pinterest.com
+    policy_creation_date:
+    policy_last_updated:
+    date_added_to_repo: 2015-09-09
+-
+    Company: Reddit
+    Maternity: 17
+    Paternity: 17
+    Adoption:
+    Notes:
+    Source: kim@disqus.com
+    policy_creation_date:
+    policy_last_updated:
+    date_added_to_repo:
+-
+    Company: Return Path
+    Maternity: 12
+    Paternity: 4
+    Adoption: 4
+    Notes: Care package with Giant Teddy Bear
+    Source: kim@disqus.com
+    policy_creation_date:
+    policy_last_updated:
+    date_added_to_repo:
+-
+    Company: Runscope
+    Maternity: 16
+    Paternity: 16
+    Adoption: 16
+    Notes:
+    Source: https://twitter.com/johnsheehan/status/587077431237996544
+    policy_creation_date:
+    policy_last_updated:
+    date_added_to_repo:
+-
+    Company: Salesforce
+    Maternity: 11
+    Paternity: 4
+    Adoption: 4
+    Notes: 4 weeks paternity or adoption at 80%, 11 weeks maternity at 80%, 2 extra weeks in case of C-section, 2 extra weeks at 55% in California. Some subsidiaries may have more generous policies.
+    Source: http://getsalesforcebenefits.com/your-benefits/work-life/time-off-and-leaves
+    policy_creation_date:
+    policy_last_updated: 2015-01
+    date_added_to_repo: 2015-05-20
+-
+    Company: SendGrid
+    Maternity: 2
+    Paternity: 2
+    Adoption: 2
+    Notes:
+    Source: kim@disqus.com
+    policy_creation_date:
+    policy_last_updated:
+    date_added_to_repo:
+-
+    Company: Shapeways
+    Maternity: 12
+    Paternity: 4
+    Adoption:
+    Notes:
+    Source: kim@disqus.com
+    policy_creation_date:
+    policy_last_updated:
+    date_added_to_repo:
+-
+    Company: ShareThis
+    Maternity: 5
+    Paternity: 2
+    Adoption: 2
+    Notes:
+    Source: kim@disqus.com
+    policy_creation_date:
+    policy_last_updated:
+    date_added_to_repo:
+-
+    Company: Square
+    Maternity: 16
+    Paternity: 16
+    Adoption: 16
+    Notes:
+    Source: kim@disqus.com
+    policy_creation_date:
+    policy_last_updated:
+    date_added_to_repo:
+-
+    Company: Travis CI
+    Maternity: 20
+    Paternity: 20
+    Adoption:
+    Notes: For US employees: 20 weeks at full pay, starting two weeks before due date, 24 weeks if there are complications during birth.
+    Source: http://blog.travis-ci.com/2015-08-11-our-maternity-and-paternity-leave-for-us-employees/
+    policy_creation_date: 2015-05-07
+    policy_last_updated: 2015-08-07
+    date_added_to_repo: 2015-08-11
+-
+    Company: Twitter
+    Maternity: 20
+    Paternity: 12
+    Adoption:
+    Notes:
+    Source: kim@disqus.com
+    policy_creation_date:
+    policy_last_updated:
+    date_added_to_repo:
+-
+    Company: Wikimedia Foundation
+    Maternity: 8
+    Paternity: 2
+    Adoption: 2
+    Notes: 6 weeks paid for California residents per CA law
+    Source: officewiki
+    policy_creation_date:
+    policy_last_updated:
+    date_added_to_repo:
+-
+    Company: Yahoo
+    Maternity: 16
+    Paternity: 8
+    Adoption:
+    Notes: $10,000 cash bonus
+    Source: kim@disqus.com
+    policy_creation_date:
+    policy_last_updated:
+    date_added_to_repo:
