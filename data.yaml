@@ -449,3 +449,13 @@
     policy_creation_date:
     policy_last_updated:
     date_added_to_repo:
+-
+    Company: Box
+    Maternity: 12
+    Paternity: 6
+    Adoption: 12/6
+    Notes: 
+    Source: Box Maternity/Paternity Family Leave
+    policy_creation_date: 
+    policy_last_updated:
+    date_added_to_repo: 11/15/15
