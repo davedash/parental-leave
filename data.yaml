@@ -250,6 +250,16 @@
     policy_last_updated:
     date_added_to_repo:
 -
+    Company: Microsoft
+    Maternity: 20
+    Paternity: 12
+    Adoption:
+    Notes: Additional maternity disability leave available
+    Source: http://blogs.microsoft.com/blog/2015/08/05/the-employee-experience-at-microsoft-aligning-benefits-to-our-culture/
+    policy_creation_date: 2015-11-01
+    policy_last_updated: 2015-9-5
+    date_added_to_repo: 2015-11-17
+-
     Company: MongoDB
     Maternity: 12
     Paternity: 4
