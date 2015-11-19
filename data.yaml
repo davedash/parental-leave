@@ -468,4 +468,14 @@
     Source: Box Maternity/Paternity Family Leave
     policy_creation_date: 
     policy_last_updated:
-    date_added_to_repo: 11/15/15
+    date_added_to_repo: 11/15/2015
+-
+    Company: Spotify
+    Maternity: 26
+    Paternity: 26
+    Adoption: 26
+    Notes: US
+    Source: https://twitter.com/JessicaValenti/status/667361674937180160
+    policy_creation_date: 11/19/2015
+    policy_last_updated: 11/19/2015
+    date_added_to_repo: 11/19/2015
