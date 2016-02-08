@@ -271,13 +271,13 @@
     date_added_to_repo: 2015-8-21
 -
     Company: Mozilla
-    Maternity: 2
-    Paternity: 14*
+    Maternity: 14
+    Paternity: 2
     Adoption: 2
-    Notes: 'Numbers are for US employees. Not sure adoption number is right, but it is the ''non-child-bearing parent'' number. Also PTO stops acruing during this time and it''s excluded from bonus calculation. * The total maternity leave you can get is 15 weeks but the first week is either PTO or unpaid. After that, the next 12 weeks are considered maternity leave, followed by an additional 2 weeks of parental leave (which any new parent is eligible).'
-    Source: Internal Wiki/personal experience
-    policy_creation_date:
-    policy_last_updated:
+    Notes: 'PTO stops accruing during this time and it''s excluded from bonus calculation. Maternity leave is 12 weeks, plus two weeks parental leave.'
+    Source: Internal Wiki
+    policy_creation_date: 2013-05-01
+    policy_last_updated: 2013-11-08
     date_added_to_repo:
 -
     Company: Omaze
