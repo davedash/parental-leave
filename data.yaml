@@ -171,12 +171,12 @@
     date_added_to_repo:
 -
     Company: FermiLab
-    Maternity: 0
-    Paternity: 0
-    Adoption: 0
-    Notes:
-    Source:
-    policy_creation_date:
+    Maternity: 6
+    Paternity: 1
+    Adoption: 6 or 1
+    Notes: "primary caregiver" vs "secondary caregiver" instead of maternity-vs-paternity; can only use leave after using up all sick leave
+    Source: tskirvin@fnal.gov
+    policy_creation_date: 3/1/2016
     policy_last_updated:
     date_added_to_repo:
 -
