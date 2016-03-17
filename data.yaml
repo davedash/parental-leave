@@ -141,13 +141,13 @@
     date_added_to_repo:
 -
     Company: Etsy
-    Maternity: 12
-    Paternity: 5
-    Adoption:
-    Notes:
-    Source: kim@disqus.com
-    policy_creation_date:
-    policy_last_updated:
+    Maternity: 26
+    Paternity: 26
+    Adoption: 26
+    Notes: 18 of the 26 weeks can be taken any time over two years after birth.
+    Source: https://blog.etsy.com/news/2016/strong-families-strong-business-a-step-forward-in-parental-leave-at-etsy/
+    policy_creation_date: 2016-03-17
+    policy_last_updated: 2016-03-17
     date_added_to_repo:
 -
     Company: Evernote
