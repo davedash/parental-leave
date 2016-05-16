@@ -479,3 +479,43 @@
     policy_creation_date: 11/19/2015
     policy_last_updated: 11/19/2015
     date_added_to_repo: 11/19/2015
+-
+    Company: University of Minnesota (non-Duluth Faculty & P&A)
+    Maternity: 6
+    Paternity: 2
+    Adoption: 2
+    Notes: Paternity and Adoptive are also eligible for an additional 4 weeks of unpaid leave.
+    Source: http://www1.umn.edu/ohr/benefits/leaves/parental/index.html
+    policy_creation_date: 11/20/2015 
+    policy_last_updated: 11/20/2015 
+    date_added_to_repo: 11/20/2015 
+-
+    Company: Intel
+    Maternity: 21
+    Paternity: 8
+    Adoption: 8
+    Notes: 
+    Source: http://newsroom.intel.com/community/intel_newsroom/blog/2015/01/16/chip-shot-intel-announces-new-paid-bonding-leave-program-for-parents
+    policy_creation_date: 01/16/2015 
+    policy_last_updated: 01/16/2015
+    date_added_to_repo: 12/14/2015 
+-
+    Company: GovDelivery
+    Maternity: 4
+    Paternity: 0
+    Adoption: 0
+    Notes: "STD policy provides 6 weeks paid at 60% with a 15-day waiting period, and the waiting period cuts into this time, so in actuality, it's not quite 4 weeks. Additionally, you must exhaust all accrued PTO before you can collect any STD. If eligible, FMLA protects your job for 12 weeks, and they do not let you take a day more of unpaid leave. You do not accrue PTO while on leave, but you do accrue PTO for the month you return, regardless of when in the month you come back. Finally, the company covers your health insurance premiums while you are out and garnish your checks when you return to recoup those expenses. "
+    Source: Anonymous
+    policy_creation_date: 12/16/2015 
+    policy_last_updated: 12/16/2015  
+    date_added_to_repo: 12/16/2015 
+-
+    Company: EnergySavvy
+    Maternity: 2
+    Paternity: 2
+    Adoption: 2
+    Notes: 
+    Source: Employee
+    policy_creation_date: 4/18/2016 
+    policy_last_updated: 4/18/2016  
+    date_added_to_repo: 4/18/2016 
