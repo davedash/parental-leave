@@ -519,3 +519,13 @@
     policy_creation_date: 4/18/2016 
     policy_last_updated: 4/18/2016  
     date_added_to_repo: 4/18/2016 
+-
+    Company: Amazon
+    Maternity: 20
+    Paternity: 6
+    Adoptive: 6
+    Notes: Supports sharing parental leave with spouse who might not have paid leave benefits at their work.  4 Maternal weeks are pre-partum.
+    Source: http://www.bna.com/amazon-expands-parental-n57982063587/
+    policy_creation_date: 11/12/2015 
+    policy_last_updated: 11/12/2015
+    date_added_to_repo: 6/15/2016    
