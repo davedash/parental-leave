@@ -529,3 +529,13 @@
     policy_creation_date: 11/12/2015 
     policy_last_updated: 11/12/2015
     date_added_to_repo: 6/15/2016    
+-
+    Company: IBM
+    Maternity: 12
+    Paternity: 6
+    Adoptive: 6
+    Notes: 
+    Source: https://fairygodboss.com/parental-leave/ibm
+    policy_creation_date: 6/13/2015 
+    policy_last_updated: 6/13/2015
+    date_added_to_repo: 6/15/2016   
