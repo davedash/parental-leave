@@ -122,12 +122,12 @@
 -
     Company: Disqus
     Maternity: 12
-    Paternity: 8
+    Paternity: 12
     Adoption:
-    Notes: 12 weeks primary caregiver; 8 weeks secondary caregiver - not maternal/paternal. both leaves coordinate with FMLA, PDL, CFRA, etc
+    Notes: 12 weeks paid leave for all new parents, additional disability leave for person giving birth. Coordinated with FMLA, PDL, CFRA, etc
     Source: kim@disqus.com
-    policy_creation_date:
-    policy_last_updated:
+    policy_creation_date: 9/1/14
+    policy_last_updated: 5/1/16
     date_added_to_repo:
 -
     Company: Dwolla
