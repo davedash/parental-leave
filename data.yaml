@@ -381,14 +381,14 @@
     date_added_to_repo: 2015-05-20
 -
     Company: SendGrid
-    Maternity: 2
-    Paternity: 2
-    Adoption: 2
+    Maternity: 5
+    Paternity: 5
+    Adoption: 5
     Notes:
-    Source: kim@disqus.com
-    policy_creation_date:
+    Source: silvia@sendgrid.com
+    policy_creation_date: 2016-03-24
     policy_last_updated:
-    date_added_to_repo:
+    date_added_to_repo: 2016-06-25
 -
     Company: Shapeways
     Maternity: 12
