@@ -432,12 +432,12 @@
 -
     Company: Twitter
     Maternity: 20
-    Paternity: 12
-    Adoption:
+    Paternity: 20
+    Adoption: 20
     Notes:
-    Source: kim@disqus.com
-    policy_creation_date:
-    policy_last_updated:
+    Source: http://fortune.com/2016/04/05/twitter-20-weeks-parental-leave/
+    policy_creation_date: 
+    policy_last_updated: 2016-05-01
     date_added_to_repo:
 -
     Company: Wikimedia Foundation
